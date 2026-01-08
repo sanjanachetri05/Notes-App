@@ -1,4 +1,4 @@
-# Minimalist Notes App (Local Storage) 📝
+# Notes App 📝
 
 A clean, responsive, and "classy" notes application designed for quick thought-capture. This project highlights the power of client-side storage to maintain user data across browser sessions.
 
